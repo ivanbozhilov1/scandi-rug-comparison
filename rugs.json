@@ -1,0 +1,336 @@
+[
+  {
+    "slug": "aveline-taupe",
+    "name": "Aveline Taupe",
+    "price": 60000,
+    "page": 8,
+    "collection": "Dante",
+    "tags": [
+      "traditional",
+      "neutral"
+    ],
+    "rank": 1,
+    "recommendation": "Best overall balance",
+    "pros": [
+      "A softly defined medallion adds traditional character.",
+      "Warm taupe connects naturally with pale pine."
+    ],
+    "cons": [
+      "Its light field will show marks.",
+      "Subtle ornament may feel too quiet if you want drama."
+    ],
+    "size": "8 × 11 ft",
+    "materials": "100% polypropylene",
+    "construction": "Machine made",
+    "sourceNote": "",
+    "source": "Supplied October Decoliving Catalogue (163 pages)",
+    "swatch": "assets/swatches/aveline-taupe.jpg",
+    "image": "assets/rooms/aveline-taupe.webp"
+  },
+  {
+    "slug": "valenti-taupe",
+    "name": "Valenti Taupe",
+    "price": 85000,
+    "page": 6,
+    "collection": "Milano",
+    "tags": [
+      "traditional",
+      "neutral"
+    ],
+    "rank": 2,
+    "recommendation": "Best formal Persian-inspired look",
+    "pros": [
+      "A strong brown border frames the low bed.",
+      "An open field keeps the traditional design composed."
+    ],
+    "cons": [
+      "One of the highest-priced designs.",
+      "The layered border creates a more formal room."
+    ],
+    "size": "8 × 11 ft",
+    "materials": "60% recycled PES, 40% PES",
+    "construction": "Machine made",
+    "sourceNote": "",
+    "source": "Supplied October Decoliving Catalogue (163 pages)",
+    "swatch": "assets/swatches/valenti-taupe.jpg",
+    "image": "assets/rooms/valenti-taupe.webp"
+  },
+  {
+    "slug": "orsini-taupe",
+    "name": "Orsini Taupe",
+    "price": 85000,
+    "page": 7,
+    "collection": "Milano",
+    "tags": [
+      "traditional",
+      "neutral"
+    ],
+    "rank": 3,
+    "recommendation": "Best all-over floral pattern",
+    "pros": [
+      "Dense dark florals create detail around the bed.",
+      "Ivory and taupe remain versatile with simple bedding."
+    ],
+    "cons": [
+      "Busy pattern needs restrained surrounding textiles.",
+      "Priced at the top of this shortlist."
+    ],
+    "size": "8 × 11 ft",
+    "materials": "60% recycled PES, 40% PES",
+    "construction": "Machine made",
+    "sourceNote": "",
+    "source": "Supplied October Decoliving Catalogue (163 pages)",
+    "swatch": "assets/swatches/orsini-taupe.jpg",
+    "image": "assets/rooms/orsini-taupe.webp"
+  },
+  {
+    "slug": "portia-rust",
+    "name": "Portia Rust",
+    "price": 60000,
+    "page": 139,
+    "collection": "Prima",
+    "tags": [
+      "traditional",
+      "neutral",
+      "rust"
+    ],
+    "rank": 4,
+    "recommendation": "Best restrained rust accent",
+    "pros": [
+      "A pale field keeps the room airy.",
+      "Rust outlines add warmth without a solid orange field."
+    ],
+    "cons": [
+      "It is predominantly pale, rather than a dark rust rug.",
+      "Fine linework may read softer in real room light."
+    ],
+    "size": "8 × 11 ft",
+    "materials": "85% PP heatset, 15% polyester",
+    "construction": "Machine made",
+    "sourceNote": "",
+    "source": "Supplied October Decoliving Catalogue (163 pages)",
+    "swatch": "assets/swatches/portia-rust.jpg",
+    "image": "assets/rooms/portia-rust.webp"
+  },
+  {
+    "slug": "valenti-ivory",
+    "name": "Valenti Ivory",
+    "price": 85000,
+    "page": 6,
+    "collection": "Milano",
+    "tags": [
+      "traditional",
+      "neutral"
+    ],
+    "rank": 5,
+    "recommendation": "Best crisp traditional contrast",
+    "pros": [
+      "A dark ornamental border stands out against pine.",
+      "A pale centre makes a clean setting for the bed."
+    ],
+    "cons": [
+      "Strong border can become the focal point.",
+      "One of the highest-priced options."
+    ],
+    "size": "8 × 11 ft",
+    "materials": "60% recycled PES, 40% PES",
+    "construction": "Machine made",
+    "sourceNote": "",
+    "source": "Supplied October Decoliving Catalogue (163 pages)",
+    "swatch": "assets/swatches/valenti-ivory.jpg",
+    "image": "assets/rooms/valenti-ivory.webp"
+  },
+  {
+    "slug": "cassiel-ivory",
+    "name": "Cassiel Ivory",
+    "price": 70000,
+    "page": 9,
+    "collection": "Cairo",
+    "tags": [
+      "traditional",
+      "neutral"
+    ],
+    "rank": 6,
+    "recommendation": "Best cool, intricate ivory",
+    "pros": [
+      "Repeated motifs provide pattern without one dominant medallion.",
+      "Light ivory gives a spacious impression."
+    ],
+    "cons": [
+      "Cool grey notes are less warm than taupe.",
+      "A light surface needs more attentive cleaning."
+    ],
+    "size": "8 × 11 ft",
+    "materials": "55% polyester, 45% PP heatset",
+    "construction": "Machine made",
+    "sourceNote": "",
+    "source": "Supplied October Decoliving Catalogue (163 pages)",
+    "swatch": "assets/swatches/cassiel-ivory.jpg",
+    "image": "assets/rooms/cassiel-ivory.webp"
+  },
+  {
+    "slug": "orsini-walnut",
+    "name": "Orsini Walnut",
+    "price": 85000,
+    "page": 7,
+    "collection": "Milano",
+    "tags": [
+      "traditional",
+      "darker"
+    ],
+    "rank": 7,
+    "recommendation": "Best rich, darker contrast",
+    "pros": [
+      "Deep wine-brown ground gives the pine bed definition.",
+      "All-over pale florals bring a layered traditional feel."
+    ],
+    "cons": [
+      "A stronger visual presence in a small room.",
+      "Check the wine/brown undertone on a physical sample."
+    ],
+    "size": "8 × 11 ft",
+    "materials": "60% recycled PES, 40% PES",
+    "construction": "Machine made",
+    "sourceNote": "",
+    "source": "Supplied October Decoliving Catalogue (163 pages)",
+    "swatch": "assets/swatches/orsini-walnut.jpg",
+    "image": "assets/rooms/orsini-walnut.webp"
+  },
+  {
+    "slug": "virello",
+    "name": "Virello",
+    "price": 60000,
+    "page": 59,
+    "collection": "Chalon",
+    "tags": [
+      "traditional",
+      "neutral"
+    ],
+    "rank": 8,
+    "recommendation": "Best weathered geometry",
+    "pros": [
+      "Faded geometric medallions add a relaxed antique effect.",
+      "Muted grey, taupe and olive notes suit natural materials."
+    ],
+    "cons": [
+      "Its cool cast may differ under warm lamps.",
+      "Distressed detail looks less crisp than formal floral designs."
+    ],
+    "size": "8 × 11 ft",
+    "materials": "Polypropylene & polyester",
+    "construction": "Machine made",
+    "sourceNote": "",
+    "source": "Supplied October Decoliving Catalogue (163 pages)",
+    "swatch": "assets/swatches/virello.jpg",
+    "image": "assets/rooms/virello.webp"
+  },
+  {
+    "slug": "rosette",
+    "name": "Rosette",
+    "price": 70000,
+    "page": 17,
+    "collection": "Aubri",
+    "tags": [
+      "traditional",
+      "darker"
+    ],
+    "rank": 9,
+    "recommendation": "Best moody, faded pattern",
+    "pros": [
+      "A charcoal-toned field gives a grounded, aged appearance.",
+      "Small warm accents connect with the wood."
+    ],
+    "cons": [
+      "The distressed finish is intentionally uneven.",
+      "Confirm the price: the PDF uses a malformed number separator."
+    ],
+    "size": "8 × 11 ft",
+    "materials": "100% polypropylene heatset",
+    "construction": "Machine made",
+    "sourceNote": "PDF prints 70,000,00; interpreted as ₱70,000.",
+    "source": "Supplied October Decoliving Catalogue (163 pages)",
+    "swatch": "assets/swatches/rosette.jpg",
+    "image": "assets/rooms/rosette.webp"
+  },
+  {
+    "slug": "fenna-brown",
+    "name": "Fenna Brown",
+    "price": 43900,
+    "page": 83,
+    "collection": "Limited Edition",
+    "tags": [
+      "neutral"
+    ],
+    "rank": 10,
+    "recommendation": "Best quiet geometric value",
+    "pros": [
+      "Earthy beige and brown coordinate easily with pine.",
+      "A lower catalogue price than the floral shortlist."
+    ],
+    "cons": [
+      "Geometric and tribal-inspired rather than Persian floral.",
+      "Fringe needs enough clearance from the low bed."
+    ],
+    "size": "8 × 11 ft",
+    "materials": "Polypropylene, polyester",
+    "construction": "Machine made",
+    "sourceNote": "",
+    "source": "Supplied October Decoliving Catalogue (163 pages)",
+    "swatch": "assets/swatches/fenna-brown.jpg",
+    "image": "assets/rooms/fenna-brown.webp"
+  },
+  {
+    "slug": "fara-brown",
+    "name": "Fara Brown",
+    "price": 43900,
+    "page": 85,
+    "collection": "Limited Edition",
+    "tags": [
+      "darker"
+    ],
+    "rank": 11,
+    "recommendation": "Best bold geometric value",
+    "pros": [
+      "Deep brown and ivory bands create strong rhythm.",
+      "A lower catalogue price with clear contrast."
+    ],
+    "cons": [
+      "Busy bands may compete with the patterned throw.",
+      "Fringe and saturated brown make a stronger statement."
+    ],
+    "size": "8 × 11 ft",
+    "materials": "Polypropylene, polyester",
+    "construction": "Machine made",
+    "sourceNote": "",
+    "source": "Supplied October Decoliving Catalogue (163 pages)",
+    "swatch": "assets/swatches/fara-brown.jpg",
+    "image": "assets/rooms/fara-brown.webp"
+  },
+  {
+    "slug": "avielle-pearl",
+    "name": "Avielle Pearl",
+    "price": 60000,
+    "page": 8,
+    "collection": "Dante",
+    "tags": [
+      "neutral"
+    ],
+    "rank": 12,
+    "recommendation": "Best gentle pearl pattern",
+    "pros": [
+      "Small repeated motifs give an even, quiet surface.",
+      "Pale grey and pearl keep attention on the bed."
+    ],
+    "cons": [
+      "Cooler and lighter than the taupe choices.",
+      "Less distinct traditional medallion character."
+    ],
+    "size": "8 × 11 ft",
+    "materials": "100% polypropylene",
+    "construction": "Machine made",
+    "sourceNote": "",
+    "source": "Supplied October Decoliving Catalogue (163 pages)",
+    "swatch": "assets/swatches/avielle-pearl.jpg",
+    "image": "assets/rooms/avielle-pearl.webp"
+  }
+]

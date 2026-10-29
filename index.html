@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f2eb">
+  <meta name="description" content="An independent visual study of twelve Decoliving rugs with a pale pine Scandi Home Japanese queen bed. Explore room views, catalogue swatches and a personal shortlist.">
+  <title>A softer foundation — a bedroom rug study</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to the rug study</a>
+  <header class="site-header wrap">
+    <a class="wordmark" href="#">THE ROOM STUDY<span>BEDROOM / 01</span></a>
+    <nav aria-label="Main navigation"><a href="#collection">The collection</a><a href="#compare">Your shortlist <span id="nav-count">0</span></a><button id="share" class="text-button" type="button">Share study <span aria-hidden="true">↗</span></button></nav>
+  </header>
+  <main id="main">
+    <section class="intro wrap" aria-labelledby="page-title">
+      <div><p class="eyebrow">PALE PINE · SOFT TEXTURE · QUIET CONTRAST</p><h1 id="page-title">A softer<br><em>foundation.</em></h1></div>
+      <div class="intro-copy"><p>Twelve rugs. One considered room.</p><p>Find the right grounding for the pale pine Scandi Home Japanese queen bed. Start with the no-rug baseline, then explore every option in place.</p><a class="inline-link" href="#collection">Explore the twelve <span aria-hidden="true">↓</span></a></div>
+    </section>
+
+    <section class="room-section wrap" aria-labelledby="room-heading">
+      <div class="section-line"><h2 id="room-heading">See it in the room</h2><p class="small">Artist’s visualization — verify physical sample.</p></div>
+      <div id="room-stage" class="room-stage is-baseline" style="--split:50%">
+        <img id="baseline-image" class="room-image" src="assets/rooms/baseline.webp" alt="The bedroom with the pale pine Japanese queen bed and no rug" fetchpriority="high" width="1448" height="1086">
+        <img id="selected-image" class="room-image selected-image" alt="" hidden width="1448" height="1086">
+        <div class="room-badge" id="room-badge">BASELINE RENDER · NO RUG</div>
+        <div class="split-line" aria-hidden="true"><span>↔</span></div>
+        <div id="room-fallback" class="image-fallback" hidden><strong>The room image is unavailable.</strong><span>Try refreshing. Catalogue details and swatches remain below.</span></div>
+        <div class="split-labels" aria-hidden="true"><span>No rug</span><span>With rug</span></div>
+      </div>
+      <div id="slider-controls" class="slider-controls" hidden><label for="reveal">Before &amp; after <span>Drag to compare the same room</span></label><input id="reveal" type="range" min="0" max="100" value="50" aria-label="Reveal rug visualization; left shows no rug, right shows the selected rug"><span id="reveal-value" class="small">50% reveal</span></div>
+      <div class="room-toolbar"><div class="select-field"><label for="rug-select">Choose a rug to preview</label><select id="rug-select"><option value="">Baseline render · no rug</option></select></div><div class="preview-details" id="preview-details"><span class="eyebrow">THE STARTING POINT</span><p>A little space to imagine.</p></div><button id="baseline-toggle" class="button button-light" type="button" aria-pressed="true" disabled>Showing baseline render</button></div>
+      <div id="preview-thumbnails" class="preview-thumbnails" aria-label="Quick rug previews"></div>
+      <p class="room-footnote">Nominal rug placement: 11 ft across the bed × 8 ft head-to-foot. Visual placement and scale are approximate.</p>
+      <p class="room-footnote">Shown: a specified 5 cm mattress, an assumed slim topper and a fitted Eight Sleep cover. Topper thickness, cover model and compatibility are unconfirmed.</p>
+    </section>
+
+    <section id="collection" class="collection wrap" aria-labelledby="collection-heading">
+      <div class="collection-heading"><div><p class="eyebrow">THE EDIT · TWELVE POSSIBILITIES</p><h2 id="collection-heading">Texture changes everything.</h2></div><p>Ordered by overall fit for this room.<br>See the room view beside the original catalogue swatch.</p></div>
+      <div class="filter-row"><div class="filters" role="group" aria-label="Filter rugs"><button type="button" data-filter="all" class="filter active" aria-pressed="true">All twelve</button><button type="button" data-filter="traditional" class="filter" aria-pressed="false">Traditional</button><button type="button" data-filter="darker" class="filter" aria-pressed="false">Darker</button><button type="button" data-filter="neutral" class="filter" aria-pressed="false">Neutral</button><button type="button" data-filter="rust" class="filter" aria-pressed="false">Rust</button></div><p id="results-count" class="small" role="status">Loading the collection…</p></div>
+      <p id="load-error" class="load-error" hidden>The collection could not be loaded. Please refresh, or open this folder through a local web server as described in the README.</p>
+      <div id="rug-grid" class="rug-grid"></div>
+      <noscript><p>This study needs JavaScript to load the rug collection and comparison controls. Enable JavaScript and refresh to explore the twelve rugs.</p></noscript>
+    </section>
+
+    <section id="compare" class="comparison-section" aria-labelledby="compare-heading"><div class="wrap"><div class="collection-heading"><div><p class="eyebrow">SIDE BY SIDE</p><h2 id="compare-heading">Make room for a shortlist.</h2></div><p>Choose up to three rugs from the collection.<br>Room views, real swatches and trade-offs in one place.</p></div><div id="compare-empty" class="compare-empty"><span aria-hidden="true">＋</span><p>Your shortlist starts with a checkbox.</p><p class="small">Select “Compare” on any rug to bring it here.</p><a class="inline-link" href="#collection">Back to the collection ↑</a></div><div id="compare-grid" class="compare-grid"></div><div class="compare-bottom"><p id="compare-count" class="small" role="status">0 of 3 selected</p><button id="clear-compare" class="text-button" type="button" hidden>Clear shortlist</button></div></div></section>
+
+    <section class="notes wrap" aria-labelledby="notes-heading"><div><p class="eyebrow">READ BEFORE DECIDING</p><h2 id="notes-heading">A visual starting point.<br><em>A sample makes it real.</em></h2></div><div class="notes-body"><details open><summary>Room, bed &amp; bedding assumptions</summary><p>The study uses the pale pine Scandi Home Japanese queen bed. A 5 cm mattress core was specified. Topper thickness and the exact Eight Sleep model are unspecified; a slim topper and fitted cover are shown qualitatively, without invented dimensions.</p><p>Combined bedding height and Eight Sleep compatibility have not been verified. Confirm both with the relevant manufacturers. The integrated side-table span and available clearance are also unknown.</p></details><details><summary>Rug scale, colour &amp; placement</summary><p>Each rug is treated as nominally 8 × 11 ft, with 11 ft (335 cm) across the bed and 8 ft (244 cm) head-to-foot. These are approximate catalogue dimensions, not a measured floor plan. Photographic styling, perspective, texture and placement are approximate.</p><p>Ivory products are intentionally shown as bright ivory. Screen colour and generated room lighting cannot establish the physical colour: use the catalogue crop as a reference and verify a physical sample.</p></details><details><summary>Catalogue &amp; pricing notes</summary><p>Product names, page references and prices come from the supplied 163-page October Decoliving catalogue. This is a catalogue snapshot, not a live quote. Availability is unknown; confirm the current price, exact size and stock before ordering.</p><p>Only product crops are included here. Rankings and trade-offs are independent aesthetic judgments for this room. The room images are artist’s visualizations, not installation photographs.</p></details></div></section>
+  </main>
+  <footer class="site-footer wrap"><a class="wordmark" href="#">THE ROOM STUDY<span>A CONSIDERED COMPARISON</span></a><p>An independent visual study.<br>No affiliation with Decoliving, Scandi Home or Eight Sleep.</p><a class="inline-link" href="#">Back to top ↑</a></footer>
+  <div id="status-message" class="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="share-dialog"><form method="dialog"><button class="dialog-close text-button" aria-label="Close sharing dialog">Close ×</button><h2>Share your study</h2><p>Copy this link to keep the current room and shortlist.</p><label for="share-url">Study link</label><input id="share-url" type="url" readonly><button class="button" value="done">Done</button></form></dialog>
+</body>
+</html>
